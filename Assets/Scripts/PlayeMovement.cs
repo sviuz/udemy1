@@ -30,13 +30,12 @@ public class PlayeMovement : MonoBehaviour
     private void FixedUpdate()
     {
         var deltaTime = Time.fixedDeltaTime;
-        rd.velocity = new Vector2(direction * speedX * SpeedMultiplier * deltaTime, 0);
+        rd.velocity = new Vector2(direction * speedX * SpeedMultiplier * deltaTime, rd.velocity.y);
         
         if (isJump)
         {
             rd.AddForce(new Vector2(0,5000f));
-            isGround = false;
-            isJump = false;
+            isGround = isJump = false;
         }
     }
 
