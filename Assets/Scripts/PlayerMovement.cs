@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
         
         if (_isJump)
         {
-            _rd.AddForce(new Vector2(0,10000));
+            _rd.AddForce(new Vector2(0,500f));
             _isGround = _isJump = false;
         }
     }
