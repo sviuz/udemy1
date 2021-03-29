@@ -3,13 +3,15 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public Animator anim;
+    
     private float speedX = 5f;
     private Rigidbody2D _rd;
     private bool _isGround;
     private bool _isJump;
     private float _direction;
     private const float SpeedMultiplier = 50f;
-    private bool isFacingRight;
+    private bool _isFacingRight;
 
     void Start()
     {
@@ -19,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         _direction = Input.GetAxis("Horizontal");
+        anim.SetFloat("speedX", Math.Abs(_direction));
         
         if (Input.GetKey(KeyCode.W) && _isGround)
         {
@@ -30,11 +33,11 @@ public class PlayerMovement : MonoBehaviour
     {
         _rd.velocity = new Vector2(_direction * speedX * SpeedMultiplier * Time.fixedDeltaTime, _rd.velocity.y);
 
-        if (_direction>=0 && !isFacingRight)
+        if (_direction>0 && _isFacingRight)
         {
             FlipPlayer();
         }
-        else if(_direction<=0 && isFacingRight)
+        else if(_direction<0 && !_isFacingRight)
         {
             FlipPlayer();
         }
@@ -48,7 +51,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FlipPlayer()
     {
-        isFacingRight = !isFacingRight;
+        _isFacingRight = !_isFacingRight;
         var playerScale = transform.localScale;
         playerScale.x *= -1;
         transform.localScale = playerScale;
