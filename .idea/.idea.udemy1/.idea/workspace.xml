@@ -5,245 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Attack.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Attack.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Attack2.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Attack2.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/BURLY-MAN_1_swordsman.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/BURLY-MAN_1_swordsman.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Demo_BURLY-MAN_1_swordsman.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Demo_BURLY-MAN_1_swordsman.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Die.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Die.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Hit.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Hit.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Run.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Animation/Run.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/BURLY-MAN 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/BURLY-MAN 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/BURLY-MAN_1_swordsman.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/BURLY-MAN_1_swordsman.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/BURLY-MAN_1_swordsman.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/BURLY-MAN_1_swordsman.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Canvas.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Canvas.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Completed_IMG.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Completed_IMG.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Free_GM.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Free_GM.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Free_Pack_Scene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/Free_Pack_Scene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ].meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Bottom_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Bottom_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Chest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Chest.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Ear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Ear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/FACE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/FACE.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Hair.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Hair.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Hip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Hip.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Arm 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Arm 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Arm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Arm.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Arm_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Arm_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Finger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Finger.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Finger_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Finger_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Foot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Foot.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Foot_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Foot_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Hand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Hand.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Hand_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Hand_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Leg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Leg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Leg_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Leg_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Shoulder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Shoulder.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Thigh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Thigh.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Thigh_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_Thigh_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_eyebrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/L_eyebrow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Nose.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Nose.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Arm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Arm.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Arm_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Arm_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Finger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Finger.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Finger_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Finger_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Foot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Foot.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Foot_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Foot_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Hand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Hand.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Hand_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Hand_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Leg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Leg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Leg_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Leg_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Shoulder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Shoulder.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Shoulder_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Shoulder_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Thigh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Thigh.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Thigh_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Thigh_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Weapon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_Weapon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_eyebrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/R_eyebrow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Top_wear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/Top_wear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/eyes_close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/eyes_close.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/eyes_hurt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/eyes_hurt.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/eyes_open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/eyes_open.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/flush.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/flush.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/mouth_close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/mouth_close.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/mouth_hurt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/mouth_hurt.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/mouth_open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/mouth_open.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/shadow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/[ size down to 50% ]/shadow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/blackhammer_guidebook(1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/blackhammer_guidebook(1).pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/BURLY-MAN_1_swordsman/line.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Background.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Background.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Canvas.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Canvas.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Demo_Game.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Demo_Game.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/CharacterController_2D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/CharacterController_2D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/ColliderEvent_Sender.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/ColliderEvent_Sender.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/Demo_GM.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/Demo_GM.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/DestroyEffect.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/DestroyEffect.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/WoodDoll_Mgr.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Script/WoodDoll_Mgr.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/LClick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/LClick.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/LR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/LR.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/RClick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/RClick.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_bright-sand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_bright-sand.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_bright-scratch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_bright-scratch.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_dark-sand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_dark-sand.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_dark-scratch1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_dark-scratch1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_dark-scratch2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_dark-scratch2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_grass1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_grass1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_grass2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_grass2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_grass3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_grass3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-bg_spot5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_attack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_attack.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_button_Fill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_button_Fill.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_mouse_Fill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_mouse_Fill.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_move.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Sprite/webGL-ui_move.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Hit.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Hit.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Blood.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Blood.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Body.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Body.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_L.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_L.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_R.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_R.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_brow_L.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_brow_L.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_brow_R.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Eyes_brow_R.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Head.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/L_Arm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/L_Arm.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Leg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Leg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Leg_Guard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Leg_Guard.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Mouth_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Mouth_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Mouth_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Mouth_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/R_Arm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/R_Arm.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Shadow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Shadow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Target.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Target.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Tear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Tear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Vibe1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Vibe1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Vibe2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Sprite/Vibe2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Wooden_Doll.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/WoodenDoll/Wooden_Doll.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Wooden_Doll.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Free_Pack/Demo_GameResource/Wooden_Doll.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,12 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FinishScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeverArm.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayeMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/FollowingCamera.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/FinishScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/LeverArm.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qNQTyiJFcXgRMt6mejVT9RuMtM" />
@@ -274,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -305,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616917590506</updated>
       <workItem from="1616917627011" duration="8690000" />
-      <workItem from="1616999744184" duration="1406000" />
+      <workItem from="1616999744184" duration="1959000" />
+      <workItem from="1617112592241" duration="3387000" />
     </task>
     <servers />
   </component>

@@ -3,19 +3,25 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public Animator anim;
+    [SerializeField] private Animator anim;
+    
+    private FinishScript finish;
+    private Rigidbody2D _rd;
     
     private float speedX = 5f;
-    private Rigidbody2D _rd;
-    private bool _isGround;
-    private bool _isJump;
     private float _direction;
     private const float SpeedMultiplier = 50f;
-    private bool _isFacingRight;
 
+    private bool _isGround;
+    private bool _isJump;
+    private bool _isFacingRight;
+    private bool isFinished = false;
+    
+    
     void Start()
     {
         _rd = GetComponent<Rigidbody2D>();
+        finish = GameObject.FindGameObjectWithTag("Finish").GetComponent<FinishScript>();
     }
 
     void Update()
@@ -26,6 +32,11 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.W) && _isGround)
         {
             _isJump = true;
+        }
+
+        if (Input.GetKeyDown(KeyCode.F) && isFinished)
+        {
+            finish.FinishLevel();
         }
     }
 
@@ -59,9 +70,26 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
      {
-        if (other.collider.CompareTag("Ground"))
+        if (other.gameObject.CompareTag("Ground"))
         {
             _isGround = true;
         }
+        
      }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Finish"))
+        {
+            isFinished = false;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Finish"))
+        {
+            isFinished = true;
+        }
+    }
 }
