@@ -11,6 +11,6 @@ public class LeverArm : MonoBehaviour
 
     private void ActivateLeverArm()
     {
-        _finish.FinishLevel();
+        _finish.Activate();
     }
 }

@@ -6,8 +6,6 @@
     <e p="C:\Users\6\Documents\udemy1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="FinishScript.cs" t="Include" />
-        <e p="LeverArm.cs" t="Include" />
         <e p="Player pack" t="Include">
           <e p="BURLY-MAN_1_swordsman" t="Include">
             <e p="Free_GM.cs" t="Include" />
@@ -23,6 +21,8 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="FinishScript.cs" t="Include" />
+          <e p="LeverArm.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
         </e>
       </e>

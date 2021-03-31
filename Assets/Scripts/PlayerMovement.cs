@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     
     private FinishScript finish;
     private Rigidbody2D _rd;
+    private LeverArm _leverArm;
     
     private float speedX = 5f;
     private float _direction;
@@ -37,6 +38,11 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F) && isFinished)
         {
             finish.FinishLevel();
+        }
+
+        if (Input.GetKeyDown(KeyCode.F) && )
+        {
+            
         }
     }
 
