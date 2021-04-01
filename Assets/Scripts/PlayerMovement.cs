@@ -36,14 +36,16 @@ public class PlayerMovement : MonoBehaviour
             _isJump = true;
         }
 
-        if (Input.GetKeyDown(KeyCode.F) && isFinished)
+        if (Input.GetKeyDown(KeyCode.F))
         {
-            finish.FinishLevel();
-        }
-
-        if (Input.GetKeyDown(KeyCode.F) && isLeverArm)
-        {
-            _leverArm.Activate();
+            if (isFinished)
+            {
+                finish.FinishLevel();
+            }
+            if (isLeverArm)
+            {
+                _leverArm.Activate();    
+            }
         }
     }
 
@@ -91,7 +93,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isFinished = true;
         }
-        if (_leverArm)
+        if (temp)
         {
             isLeverArm = true;
         }
@@ -104,7 +106,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isFinished = false;
         }
-        if (_leverArm)
+        if (temp)
         {
             isLeverArm = false;
         }
