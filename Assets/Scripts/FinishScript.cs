@@ -12,8 +12,6 @@ public class FinishScript : MonoBehaviour
     public void FinishLevel()
     {
         if (isActivated)
-        {
             gameObject.SetActive(false);
-        }
     }
 }

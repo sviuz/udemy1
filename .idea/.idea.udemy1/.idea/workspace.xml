@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5661eb2-566a-43f7-a088-7c319e2d24a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/FinishScript.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FinishScript.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LeverArm.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LeverArm.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.udemy1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,18 +13,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/FinishScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LeverArm.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayeMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/FollowingCamera.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/FinishScript.cs" />
       <option value="$PROJECT_DIR$/Assets/LeverArm.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qNQTyiJFcXgRMt6mejVT9RuMtM" />
@@ -74,6 +70,7 @@
       <workItem from="1616917627011" duration="8690000" />
       <workItem from="1616999744184" duration="1959000" />
       <workItem from="1617112592241" duration="3387000" />
+      <workItem from="1617175192676" duration="395000" />
     </task>
     <servers />
   </component>

@@ -17,12 +17,13 @@ public class PlayerMovement : MonoBehaviour
     private bool _isJump;
     private bool _isFacingRight;
     private bool isFinished = false;
-    
+    private bool isLeverArm;
     
     void Start()
     {
         _rd = GetComponent<Rigidbody2D>();
         finish = GameObject.FindGameObjectWithTag("Finish").GetComponent<FinishScript>();
+        _leverArm = FindObjectOfType<LeverArm>(); 
     }
 
     void Update()
@@ -40,9 +41,9 @@ public class PlayerMovement : MonoBehaviour
             finish.FinishLevel();
         }
 
-        if (Input.GetKeyDown(KeyCode.F) && )
+        if (Input.GetKeyDown(KeyCode.F) && isLeverArm)
         {
-            
+            _leverArm.Activate();
         }
     }
 
@@ -82,20 +83,32 @@ public class PlayerMovement : MonoBehaviour
         }
         
      }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Finish"))
-        {
-            isFinished = false;
-        }
-    }
-
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
+        LeverArm temp = other.GetComponent<LeverArm>();
         if (other.gameObject.CompareTag("Finish"))
         {
             isFinished = true;
         }
+        if (_leverArm)
+        {
+            isLeverArm = true;
+        }
     }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        LeverArm temp = other.GetComponent<LeverArm>();
+        if (other.gameObject.CompareTag("Finish"))
+        {
+            isFinished = false;
+        }
+        if (_leverArm)
+        {
+            isLeverArm = false;
+        }
+    }
+
+    
 }

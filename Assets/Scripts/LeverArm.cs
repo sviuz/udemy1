@@ -9,7 +9,7 @@ public class LeverArm : MonoBehaviour
         _finish = GameObject.FindGameObjectWithTag("Finish").GetComponent<FinishScript>();
     }
 
-    private void ActivateLeverArm()
+    public void Activate()
     {
         _finish.Activate();
     }
